@@ -1,0 +1,27 @@
+h1 {
+    font-size:50px; 
+    color:whitesmoke; 
+    background-color:black; 
+    font-family: cursive; 
+    font-style: italic; 
+    text-align: center; 
+    margin-top: 1in;
+}
+
+h2 {
+    font-size:30px;
+     color:orange;
+     font-family:cursive; 
+     font-style: italic; 
+     margin-top: 1in;
+}
+
+p{
+    color:aliceblue; 
+    font-size: large; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    text-indent: 0.5in; 
+    text-align: justify;
+    line-height:0.3in; 
+    margin-right: 0.5in;
+}
